@@ -2,7 +2,7 @@ rm -rf /opt/PHANTX/sqlmap
 
 cd /opt/PHANTX
 
-https://github.com/nmap/nmap
+git clone https://github.com/nmap/nmap
 
 
 if [ $? -eq 0 ]
