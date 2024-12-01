@@ -14,6 +14,7 @@ else
   exit 1
 fi
 
+./configure
 make
 make install
 
