@@ -22,3 +22,4 @@ make install
 
 chmod -R 755 /opt/PHANTX
 rm -rf /opt/PHOS/tool/nmap
+rm -rf /opt/PHOS/tool/nmap
