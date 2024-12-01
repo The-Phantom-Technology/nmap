@@ -1,4 +1,4 @@
-rm -rf /opt/PHANTX/sqlmap
+rm -rf /opt/PHANTX/nmap
 
 cd /opt/PHANTX
 
