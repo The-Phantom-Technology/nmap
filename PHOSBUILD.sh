@@ -4,6 +4,9 @@ cd /opt/PHANTX
 
 git clone https://github.com/nmap/nmap
 
+cd /opt/PHANTX/nmap
+
+./configure 
 
 if [ $? -eq 0 ]
 then
@@ -14,7 +17,6 @@ else
   exit 1
 fi
 
-./configure
 make
 make install
 
