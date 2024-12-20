@@ -20,6 +20,6 @@ fi
 make
 make install
 
-chmod -R 755 /opt/PHANTX
+chmod -R 755 /opt/PHANTX/bin
 rm -rf /opt/PHOS/tool/nmap
 rm -rf /opt/PHOS/tool/nmap
