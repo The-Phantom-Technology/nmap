@@ -2,7 +2,7 @@ rm -rf /opt/PHANTX/nmap
 
 cd /opt/PHANTX
 
-git clone https://github.com/nmap/nmap
+git clone --depth 1 https://github.com/nmap/nmap
 
 cd /opt/PHANTX/nmap
 
