@@ -1,4 +1,5 @@
 rm -rf /opt/PHANTX/nmap
+rm -rf /opt/PHANTX/nmap
 
 cd /opt/PHANTX
 
